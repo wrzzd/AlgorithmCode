@@ -1,5 +1,8 @@
 # AlgorithmCode
 
+## Fundamental Algorithm
+### Sort
+
 ## Kick Start
 
 ## LeetCode
