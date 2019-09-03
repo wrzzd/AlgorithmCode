@@ -2,6 +2,8 @@
 
 ## Fundamental Algorithm
 ### Sort
+&#10003; [counting_sort](https://github.com/wrzzd/AlgorithmCode/blob/master/FundamentalAlgorithm/Sort/counting_sort.py)
+&#10003; [radix_sort](https://github.com/wrzzd/AlgorithmCode/blob/master/FundamentalAlgorithm/Sort/radix_sort.py)
 
 ## Kick Start
 
